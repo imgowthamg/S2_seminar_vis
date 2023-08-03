@@ -1,0 +1,607 @@
+﻿DATE,PRODUCT ID,QUANTITY,SALE TYPE,LOCATION,PAYMENT MODE,PRODUCT,CATEGORY,UOM,PURCHASE PRICE,SALE PRICE,PURCHASES AMOUNT,SALES AMOUNT
+01-01-2021,P0024,9,Wholesaler,Alabama,Online,Product24,Category03,Ft,144,156.96,1296,1412.64
+02-01-2021,P0038,15,Online,Alabama,Cash,Product38,Category05,Kg,72,79.92,1080,1198.8
+02-01-2021,P0013,6,Direct Sales,Arizona,Cash,Product13,Category02,Kg,112,122.08,672,732.48
+03-01-2021,P0004,5,Direct Sales,Arizona,Online,Product04,Category01,Lt,44,48.84,220,244.2
+04-01-2021,P0035,12,Online,California,Online,Product35,Category04,No.,5,6.7,60,80.4
+09-01-2021,P0031,1,Direct Sales,California,Cash,Product31,Category04,Kg,93,104.16,93,104.16
+09-01-2021,P0003,8,Direct Sales,California,Cash,Product03,Category01,Kg,71,80.94,568,647.52
+09-01-2021,P0025,4,Direct Sales,California,Online,Product25,Category03,No.,7,8.33,28,33.32
+11-01-2021,P0037,3,Direct Sales,California,Cash,Product37,Category05,Kg,67,85.76,201,257.28
+11-01-2021,P0014,4,Wholesaler,California,Online,Product14,Category02,Kg,112,146.72,448,586.88
+11-01-2021,P0042,4,Direct Sales,California,Online,Product42,Category05,Ft,120,162,480,648
+12-01-2021,P0042,10,Online,California,Cash,Product42,Category05,Ft,120,162,1200,1620
+18-01-2021,P0044,13,Direct Sales,California,Online,Product44,Category05,Kg,76,82.08,988,1067.04
+18-01-2021,P0023,3,Online,California,Cash,Product23,Category03,Ft,141,149.46,423,448.38
+19-01-2021,P0035,6,Direct Sales,California,Cash,Product35,Category04,No.,5,6.7,30,40.2
+20-01-2021,P0034,4,Direct Sales,California,Cash,Product34,Category04,Lt,55,58.3,220,233.2
+20-01-2021,P0020,4,Direct Sales,California,Cash,Product20,Category03,Lt,61,76.25,244,305
+21-01-2021,P0004,15,Wholesaler,California,Cash,Product04,Category01,Lt,44,48.84,660,732.6
+21-01-2021,P0003,9,Direct Sales,California,Online,Product03,Category01,Kg,71,80.94,639,728.46
+21-01-2021,P0042,6,Direct Sales,California,Online,Product42,Category05,Ft,120,162,720,972
+25-01-2021,P0034,6,Direct Sales,California,Cash,Product34,Category04,Lt,55,58.3,330,349.8
+25-01-2021,P0035,7,Direct Sales,California,Online,Product35,Category04,No.,5,6.7,35,46.9
+25-01-2021,P0031,14,Direct Sales,California,Online,Product31,Category04,Kg,93,104.16,1302,1458.24
+26-01-2021,P0044,9,Wholesaler,California,Cash,Product44,Category05,Kg,76,82.08,684,738.72
+26-01-2021,P0006,7,Online,California,Cash,Product06,Category01,Kg,75,85.5,525,598.5
+26-01-2021,P0001,7,Online,California,Online,Product01,Category01,Kg,98,103.88,686,727.16
+27-01-2021,P0040,7,Wholesaler,California,Online,Product40,Category05,Kg,90,115.2,630,806.4
+27-01-2021,P0032,3,Wholesaler,California,Online,Product32,Category04,Kg,89,117.48,267,352.44
+28-01-2021,P0004,10,Online,Delaware,Cash,Product04,Category01,Lt,44,48.84,440,488.4
+28-01-2021,P0029,2,Direct Sales,Delaware,Cash,Product29,Category04,Lt,47,53.11,94,106.22
+02-02-2021,P0010,7,Online,Florida,Online,Product10,Category02,Ft,148,164.28,1036,1149.96
+03-02-2021,P0016,13,Direct Sales,Florida,Online,Product16,Category02,No.,13,16.64,169,216.32
+03-02-2021,P0022,2,Wholesaler,Florida,Cash,Product22,Category03,Ft,121,141.57,242,283.14
+04-02-2021,P0037,4,Online,Illinois,Online,Product37,Category05,Kg,67,85.76,268,343.04
+05-02-2021,P0043,7,Online,Illinois,Cash,Product43,Category05,Kg,67,83.08,469,581.56
+05-02-2021,P0005,1,Direct Sales,Illinois,Cash,Product05,Category01,Ft,133,155.61,133,155.61
+05-02-2021,P0043,9,Direct Sales,Illinois,Cash,Product43,Category05,Kg,67,83.08,603,747.72
+06-02-2021,P0035,1,Direct Sales,Indiana,Cash,Product35,Category04,No.,5,6.7,5,6.7
+09-02-2021,P0034,14,Direct Sales,Indiana,Online,Product34,Category04,Lt,55,58.3,770,816.2
+12-02-2021,P0008,7,Direct Sales,Indiana,Cash,Product08,Category01,Kg,83,94.62,581,662.34
+12-02-2021,P0023,9,Online,Indiana,Cash,Product23,Category03,Ft,141,149.46,1269,1345.14
+15-02-2021,P0027,4,Direct Sales,Kentucky,Online,Product27,Category04,Lt,48,57.12,192,228.48
+18-02-2021,P0015,6,Online,Kentucky,Cash,Product15,Category02,No.,12,15.72,72,94.32
+20-02-2021,P0030,11,Online,Michigan,Cash,Product30,Category04,Ft,148,201.28,1628,2214.08
+22-02-2021,P0013,5,Online,Michigan,Cash,Product13,Category02,Kg,112,122.08,560,610.4
+23-02-2021,P0025,3,Direct Sales,Minnesota,Cash,Product25,Category03,No.,7,8.33,21,24.99
+23-02-2021,P0005,2,Direct Sales,Minnesota,Online,Product05,Category01,Ft,133,155.61,266,311.22
+25-02-2021,P0002,4,Wholesaler,Minnesota,Online,Product02,Category01,Kg,105,142.8,420,571.2
+25-02-2021,P0032,11,Online,Minnesota,Cash,Product32,Category04,Kg,89,117.48,979,1292.28
+25-02-2021,P0030,2,Direct Sales,Minnesota,Online,Product30,Category04,Ft,148,201.28,296,402.56
+27-02-2021,P0018,11,Wholesaler,Minnesota,Online,Product18,Category02,No.,37,49.21,407,541.31
+03-03-2021,P0011,1,Direct Sales,Minnesota,Online,Product11,Category02,Lt,44,48.4,44,48.4
+07-03-2021,P0021,9,Direct Sales,Minnesota,Cash,Product21,Category03,Ft,126,162.54,1134,1462.86
+08-03-2021,P0027,6,Online,Nebraska,Cash,Product27,Category04,Lt,48,57.12,288,342.72
+08-03-2021,P0044,9,Online,Nebraska,Online,Product44,Category05,Kg,76,82.08,684,738.72
+09-03-2021,P0029,6,Wholesaler,New York,Online,Product29,Category04,Lt,47,53.11,282,318.66
+11-03-2021,P0025,11,Direct Sales,New York,Cash,Product25,Category03,No.,7,8.33,77,91.63
+13-03-2021,P0028,10,Wholesaler,New York,Cash,Product28,Category04,No.,37,41.81,370,418.1
+15-03-2021,P0039,11,Online,New York,Cash,Product39,Category05,No.,37,42.55,407,468.05
+16-03-2021,P0012,14,Direct Sales,New York,Cash,Product12,Category02,Kg,73,94.17,1022,1318.38
+18-03-2021,P0042,8,Wholesaler,New York,Cash,Product42,Category05,Ft,120,162,960,1296
+19-03-2021,P0028,9,Online,New York,Cash,Product28,Category04,No.,37,41.81,333,376.29
+21-03-2021,P0020,13,Online,New York,Online,Product20,Category03,Lt,61,76.25,793,991.25
+21-03-2021,P0039,7,Direct Sales,New York,Online,Product39,Category05,No.,37,42.55,259,297.85
+22-03-2021,P0002,8,Online,New York,Online,Product02,Category01,Kg,105,142.8,840,1142.4
+22-03-2021,P0012,4,Online,New York,Online,Product12,Category02,Kg,73,94.17,292,376.68
+25-03-2021,P0024,14,Online,North Carolina,Cash,Product24,Category03,Ft,144,156.96,2016,2197.44
+25-03-2021,P0006,4,Direct Sales,North Carolina,Cash,Product06,Category01,Kg,75,85.5,300,342
+25-03-2021,P0029,8,Direct Sales,Oregon,Cash,Product29,Category04,Lt,47,53.11,376,424.88
+25-03-2021,P0038,2,Direct Sales,Pennsylvania,Online,Product38,Category05,Kg,72,79.92,144,159.84
+26-03-2021,P0001,4,Direct Sales,Pennsylvania,Cash,Product01,Category01,Kg,98,103.88,392,415.52
+26-03-2021,P0042,1,Direct Sales,Pennsylvania,Cash,Product42,Category05,Ft,120,162,120,162
+26-03-2021,P0010,9,Direct Sales,Pennsylvania,Online,Product10,Category02,Ft,148,164.28,1332,1478.52
+27-03-2021,P0030,3,Direct Sales,Pennsylvania,Online,Product30,Category04,Ft,148,201.28,444,603.84
+28-03-2021,P0007,8,Online,Pennsylvania,Cash,Product07,Category01,Lt,43,47.73,344,381.84
+30-03-2021,P0038,1,Online,Pennsylvania,Cash,Product38,Category05,Kg,72,79.92,72,79.92
+31-03-2021,P0042,3,Direct Sales,Pennsylvania,Cash,Product42,Category05,Ft,120,162,360,486
+04-04-2021,P0040,4,Direct Sales,South Carolina,Cash,Product40,Category05,Kg,90,115.2,360,460.8
+04-04-2021,P0009,9,Online,Tennessee,Cash,Product09,Category01,No.,6,7.86,54,70.74
+05-04-2021,P0031,15,Online,Tennessee,Online,Product31,Category04,Kg,93,104.16,1395,1562.4
+09-04-2021,P0005,3,Online,Tennessee,Online,Product05,Category01,Ft,133,155.61,399,466.83
+10-04-2021,P0022,14,Direct Sales,Texas,Online,Product22,Category03,Ft,121,141.57,1694,1981.98
+12-04-2021,P0037,3,Direct Sales,Texas,Cash,Product37,Category05,Kg,67,85.76,201,257.28
+12-04-2021,P0029,4,Direct Sales,Texas,Online,Product29,Category04,Lt,47,53.11,188,212.44
+12-04-2021,P0027,9,Direct Sales,Texas,Online,Product27,Category04,Lt,48,57.12,432,514.08
+12-04-2021,P0033,13,Direct Sales,Texas,Cash,Product33,Category04,Kg,95,119.7,1235,1556.1
+15-04-2021,P0017,3,Direct Sales,Texas,Online,Product17,Category02,Ft,134,156.78,402,470.34
+16-04-2021,P0018,15,Direct Sales,Texas,Cash,Product18,Category02,No.,37,49.21,555,738.15
+18-04-2021,P0038,9,Wholesaler,Texas,Online,Product38,Category05,Kg,72,79.92,648,719.28
+18-04-2021,P0019,13,Direct Sales,Texas,Cash,Product19,Category02,Ft,150,210,1950,2730
+23-04-2021,P0042,6,Direct Sales,Texas,Online,Product42,Category05,Ft,120,162,720,972
+23-04-2021,P0028,10,Direct Sales,Texas,Online,Product28,Category04,No.,37,41.81,370,418.1
+24-04-2021,P0030,2,Online,Texas,Online,Product30,Category04,Ft,148,201.28,296,402.56
+26-04-2021,P0037,3,Direct Sales,Texas,Online,Product37,Category05,Kg,67,85.76,201,257.28
+29-04-2021,P0030,7,Direct Sales,Texas,Online,Product30,Category04,Ft,148,201.28,1036,1408.96
+30-04-2021,P0029,1,Direct Sales,Utah,Online,Product29,Category04,Lt,47,53.11,47,53.11
+01-05-2021,P0018,3,Online,Utah,Cash,Product18,Category02,No.,37,49.21,111,147.63
+01-05-2021,P0042,1,Online,Virginia,Cash,Product42,Category05,Ft,120,162,120,162
+03-05-2021,P0034,3,Online,Washington,Online,Product34,Category04,Lt,55,58.3,165,174.9
+04-05-2021,P0015,13,Online,Wisconsin,Online,Product15,Category02,No.,12,15.72,156,204.36
+04-05-2021,P0014,4,Direct Sales,Berlin,Cash,Product14,Category02,Kg,112,146.72,448,586.88
+05-05-2021,P0009,13,Direct Sales,Alabama,Cash,Product09,Category01,No.,6,7.86,78,102.18
+06-05-2021,P0008,15,Direct Sales,Alabama,Online,Product08,Category01,Kg,83,94.62,1245,1419.3
+06-05-2021,P0009,6,Online,Arizona,Online,Product09,Category01,No.,6,7.86,36,47.16
+07-05-2021,P0018,1,Direct Sales,Arizona,Cash,Product18,Category02,No.,37,49.21,37,49.21
+09-05-2021,P0016,6,Online,California,Online,Product16,Category02,No.,13,16.64,78,99.84
+09-05-2021,P0028,8,Direct Sales,California,Cash,Product28,Category04,No.,37,41.81,296,334.48
+12-05-2021,P0016,3,Direct Sales,California,Online,Product16,Category02,No.,13,16.64,39,49.92
+12-05-2021,P0035,15,Direct Sales,California,Online,Product35,Category04,No.,5,6.7,75,100.5
+13-05-2021,P0029,4,Direct Sales,California,Online,Product29,Category04,Lt,47,53.11,188,212.44
+20-05-2021,P0042,2,Online,California,Cash,Product42,Category05,Ft,120,162,240,324
+23-05-2021,P0040,11,Direct Sales,California,Online,Product40,Category05,Kg,90,115.2,990,1267.2
+30-05-2021,P0023,13,Online,California,Online,Product23,Category03,Ft,141,149.46,1833,1942.98
+30-05-2021,P0013,6,Online,California,Cash,Product13,Category02,Kg,112,122.08,672,732.48
+03-06-2021,P0021,10,Direct Sales,California,Cash,Product21,Category03,Ft,126,162.54,1260,1625.4
+04-06-2021,P0020,8,Wholesaler,California,Online,Product20,Category03,Lt,61,76.25,488,610
+04-06-2021,P0020,12,Online,California,Cash,Product20,Category03,Lt,61,76.25,732,915
+05-06-2021,P0022,15,Wholesaler,California,Online,Product22,Category03,Ft,121,141.57,1815,2123.55
+05-06-2021,P0035,10,Direct Sales,California,Online,Product35,Category04,No.,5,6.7,50,67
+06-06-2021,P0033,6,Direct Sales,California,Online,Product33,Category04,Kg,95,119.7,570,718.2
+08-06-2021,P0028,11,Direct Sales,California,Online,Product28,Category04,No.,37,41.81,407,459.91
+08-06-2021,P0004,11,Wholesaler,California,Cash,Product04,Category01,Lt,44,48.84,484,537.24
+09-06-2021,P0001,7,Direct Sales,California,Online,Product01,Category01,Kg,98,103.88,686,727.16
+11-06-2021,P0032,12,Wholesaler,California,Cash,Product32,Category04,Kg,89,117.48,1068,1409.76
+12-06-2021,P0041,6,Direct Sales,California,Online,Product41,Category05,Ft,138,173.88,828,1043.28
+14-06-2021,P0025,10,Online,California,Cash,Product25,Category03,No.,7,8.33,70,83.3
+16-06-2021,P0019,5,Wholesaler,California,Cash,Product19,Category02,Ft,150,210,750,1050
+16-06-2021,P0015,12,Online,California,Cash,Product15,Category02,No.,12,15.72,144,188.64
+16-06-2021,P0039,11,Direct Sales,California,Cash,Product39,Category05,No.,37,42.55,407,468.05
+18-06-2021,P0025,13,Direct Sales,Delaware,Cash,Product25,Category03,No.,7,8.33,91,108.29
+19-06-2021,P0041,5,Direct Sales,Delaware,Online,Product41,Category05,Ft,138,173.88,690,869.4
+20-06-2021,P0016,1,Wholesaler,Florida,Cash,Product16,Category02,No.,13,16.64,13,16.64
+23-06-2021,P0016,4,Direct Sales,Florida,Online,Product16,Category02,No.,13,16.64,52,66.56
+24-06-2021,P0011,13,Direct Sales,Florida,Online,Product11,Category02,Lt,44,48.4,572,629.2
+26-06-2021,P0009,7,Online,Illinois,Online,Product09,Category01,No.,6,7.86,42,55.02
+27-06-2021,P0005,11,Direct Sales,Illinois,Cash,Product05,Category01,Ft,133,155.61,1463,1711.71
+28-06-2021,P0021,2,Online,Illinois,Cash,Product21,Category03,Ft,126,162.54,252,325.08
+28-06-2021,P0035,7,Online,Illinois,Online,Product35,Category04,No.,5,6.7,35,46.9
+29-06-2021,P0014,4,Direct Sales,Indiana,Online,Product14,Category02,Kg,112,146.72,448,586.88
+01-07-2021,P0005,11,Direct Sales,Indiana,Cash,Product05,Category01,Ft,133,155.61,1463,1711.71
+02-07-2021,P0010,11,Direct Sales,Indiana,Cash,Product10,Category02,Ft,148,164.28,1628,1807.08
+03-07-2021,P0033,9,Online,Indiana,Cash,Product33,Category04,Kg,95,119.7,855,1077.3
+03-07-2021,P0003,8,Online,Kentucky,Cash,Product03,Category01,Kg,71,80.94,568,647.52
+05-07-2021,P0002,8,Direct Sales,Kentucky,Online,Product02,Category01,Kg,105,142.8,840,1142.4
+06-07-2021,P0041,15,Direct Sales,Michigan,Cash,Product41,Category05,Ft,138,173.88,2070,2608.2
+08-07-2021,P0004,10,Direct Sales,Michigan,Online,Product04,Category01,Lt,44,48.84,440,488.4
+10-07-2021,P0034,6,Wholesaler,Minnesota,Cash,Product34,Category04,Lt,55,58.3,330,349.8
+11-07-2021,P0009,4,Wholesaler,Minnesota,Online,Product09,Category01,No.,6,7.86,24,31.44
+13-07-2021,P0019,1,Direct Sales,Minnesota,Cash,Product19,Category02,Ft,150,210,150,210
+16-07-2021,P0023,8,Wholesaler,Minnesota,Cash,Product23,Category03,Ft,141,149.46,1128,1195.68
+18-07-2021,P0027,14,Online,Minnesota,Online,Product27,Category04,Lt,48,57.12,672,799.68
+20-07-2021,P0038,11,Online,Minnesota,Online,Product38,Category05,Kg,72,79.92,792,879.12
+20-07-2021,P0043,5,Direct Sales,Minnesota,Online,Product43,Category05,Kg,67,83.08,335,415.4
+21-07-2021,P0029,15,Direct Sales,Minnesota,Online,Product29,Category04,Lt,47,53.11,705,796.65
+22-07-2021,P0026,3,Wholesaler,Nebraska,Cash,Product26,Category04,No.,18,24.66,54,73.98
+22-07-2021,P0024,14,Online,Nebraska,Cash,Product24,Category03,Ft,144,156.96,2016,2197.44
+23-07-2021,P0036,7,Wholesaler,New York,Online,Product36,Category04,Kg,90,96.3,630,674.1
+23-07-2021,P0037,8,Direct Sales,New York,Online,Product37,Category05,Kg,67,85.76,536,686.08
+24-07-2021,P0009,4,Online,New York,Cash,Product09,Category01,No.,6,7.86,24,31.44
+29-07-2021,P0044,15,Online,New York,Cash,Product44,Category05,Kg,76,82.08,1140,1231.2
+01-08-2021,P0001,11,Direct Sales,New York,Cash,Product01,Category01,Kg,98,103.88,1078,1142.68
+02-08-2021,P0023,3,Direct Sales,New York,Online,Product23,Category03,Ft,141,149.46,423,448.38
+03-08-2021,P0022,13,Online,New York,Online,Product22,Category03,Ft,121,141.57,1573,1840.41
+03-08-2021,P0034,12,Online,New York,Online,Product34,Category04,Lt,55,58.3,660,699.6
+05-08-2021,P0028,14,Direct Sales,New York,Cash,Product28,Category04,No.,37,41.81,518,585.34
+06-08-2021,P0037,1,Wholesaler,New York,Cash,Product37,Category05,Kg,67,85.76,67,85.76
+10-08-2021,P0005,4,Wholesaler,New York,Cash,Product05,Category01,Ft,133,155.61,532,622.44
+10-08-2021,P0044,10,Online,North Carolina,Cash,Product44,Category05,Kg,76,82.08,760,820.8
+10-08-2021,P0006,6,Direct Sales,North Carolina,Cash,Product06,Category01,Kg,75,85.5,450,513
+11-08-2021,P0023,4,Direct Sales,Oregon,Online,Product23,Category03,Ft,141,149.46,564,597.84
+13-08-2021,P0011,13,Direct Sales,Pennsylvania,Online,Product11,Category02,Lt,44,48.4,572,629.2
+13-08-2021,P0027,9,Direct Sales,Pennsylvania,Online,Product27,Category04,Lt,48,57.12,432,514.08
+16-08-2021,P0003,3,Online,Pennsylvania,Online,Product03,Category01,Kg,71,80.94,213,242.82
+18-08-2021,P0025,6,Direct Sales,Pennsylvania,Online,Product25,Category03,No.,7,8.33,42,49.98
+20-08-2021,P0020,15,Direct Sales,Pennsylvania,Cash,Product20,Category03,Lt,61,76.25,915,1143.75
+20-08-2021,P0031,9,Direct Sales,Pennsylvania,Online,Product31,Category04,Kg,93,104.16,837,937.44
+20-08-2021,P0028,13,Direct Sales,Pennsylvania,Online,Product28,Category04,No.,37,41.81,481,543.53
+26-08-2021,P0039,4,Direct Sales,Pennsylvania,Online,Product39,Category05,No.,37,42.55,148,170.2
+29-08-2021,P0034,12,Wholesaler,South Carolina,Online,Product34,Category04,Lt,55,58.3,660,699.6
+30-08-2021,P0013,13,Direct Sales,Tennessee,Online,Product13,Category02,Kg,112,122.08,1456,1587.04
+31-08-2021,P0001,2,Direct Sales,Tennessee,Online,Product01,Category01,Kg,98,103.88,196,207.76
+31-08-2021,P0035,11,Direct Sales,Tennessee,Online,Product35,Category04,No.,5,6.7,55,73.7
+01-09-2021,P0024,1,Wholesaler,Texas,Cash,Product24,Category03,Ft,144,156.96,144,156.96
+01-09-2021,P0003,14,Online,Texas,Online,Product03,Category01,Kg,71,80.94,994,1133.16
+03-09-2021,P0041,8,Direct Sales,Texas,Online,Product41,Category05,Ft,138,173.88,1104,1391.04
+04-09-2021,P0028,7,Direct Sales,Texas,Online,Product28,Category04,No.,37,41.81,259,292.67
+04-09-2021,P0023,15,Direct Sales,Texas,Online,Product23,Category03,Ft,141,149.46,2115,2241.9
+05-09-2021,P0032,1,Direct Sales,Texas,Cash,Product32,Category04,Kg,89,117.48,89,117.48
+07-09-2021,P0019,5,Direct Sales,Texas,Online,Product19,Category02,Ft,150,210,750,1050
+09-09-2021,P0044,4,Direct Sales,Texas,Online,Product44,Category05,Kg,76,82.08,304,328.32
+10-09-2021,P0030,6,Direct Sales,Texas,Online,Product30,Category04,Ft,148,201.28,888,1207.68
+10-09-2021,P0001,9,Wholesaler,Texas,Online,Product01,Category01,Kg,98,103.88,882,934.92
+10-09-2021,P0026,2,Direct Sales,Texas,Online,Product26,Category04,No.,18,24.66,36,49.32
+11-09-2021,P0001,6,Wholesaler,Texas,Online,Product01,Category01,Kg,98,103.88,588,623.28
+13-09-2021,P0041,7,Direct Sales,Texas,Cash,Product41,Category05,Ft,138,173.88,966,1217.16
+15-09-2021,P0042,6,Direct Sales,Texas,Online,Product42,Category05,Ft,120,162,720,972
+15-09-2021,P0042,14,Direct Sales,Utah,Online,Product42,Category05,Ft,120,162,1680,2268
+21-09-2021,P0020,7,Wholesaler,Utah,Cash,Product20,Category03,Lt,61,76.25,427,533.75
+22-09-2021,P0040,2,Online,Virginia,Cash,Product40,Category05,Kg,90,115.2,180,230.4
+22-09-2021,P0002,4,Direct Sales,Washington,Cash,Product02,Category01,Kg,105,142.8,420,571.2
+23-09-2021,P0018,12,Direct Sales,Wisconsin,Cash,Product18,Category02,No.,37,49.21,444,590.52
+23-09-2021,P0021,7,Online,Berlin,Online,Product21,Category03,Ft,126,162.54,882,1137.78
+27-09-2021,P0034,1,Direct Sales,Alabama,Cash,Product34,Category04,Lt,55,58.3,55,58.3
+30-09-2021,P0014,9,Online,Alabama,Online,Product14,Category02,Kg,112,146.72,1008,1320.48
+30-09-2021,P0006,5,Online,Arizona,Online,Product06,Category01,Kg,75,85.5,375,427.5
+01-10-2021,P0030,14,Online,Arizona,Cash,Product30,Category04,Ft,148,201.28,2072,2817.92
+02-10-2021,P0014,15,Direct Sales,California,Online,Product14,Category02,Kg,112,146.72,1680,2200.8
+03-10-2021,P0019,9,Direct Sales,California,Online,Product19,Category02,Ft,150,210,1350,1890
+06-10-2021,P0035,1,Direct Sales,California,Online,Product35,Category04,No.,5,6.7,5,6.7
+06-10-2021,P0036,12,Online,California,Online,Product36,Category04,Kg,90,96.3,1080,1155.6
+07-10-2021,P0026,6,Direct Sales,California,Cash,Product26,Category04,No.,18,24.66,108,147.96
+09-10-2021,P0038,5,Direct Sales,California,Cash,Product38,Category05,Kg,72,79.92,360,399.6
+09-10-2021,P0032,11,Online,California,Cash,Product32,Category04,Kg,89,117.48,979,1292.28
+10-10-2021,P0035,14,Direct Sales,California,Cash,Product35,Category04,No.,5,6.7,70,93.8
+11-10-2021,P0011,15,Direct Sales,California,Cash,Product11,Category02,Lt,44,48.4,660,726
+12-10-2021,P0027,8,Online,California,Online,Product27,Category04,Lt,48,57.12,384,456.96
+17-10-2021,P0001,13,Direct Sales,California,Online,Product01,Category01,Kg,98,103.88,1274,1350.44
+18-10-2021,P0025,6,Online,California,Cash,Product25,Category03,No.,7,8.33,42,49.98
+18-10-2021,P0021,13,Online,California,Cash,Product21,Category03,Ft,126,162.54,1638,2113.02
+22-10-2021,P0011,7,Direct Sales,California,Cash,Product11,Category02,Lt,44,48.4,308,338.8
+22-10-2021,P0024,13,Online,California,Cash,Product24,Category03,Ft,144,156.96,1872,2040.48
+22-10-2021,P0009,1,Direct Sales,California,Cash,Product09,Category01,No.,6,7.86,6,7.86
+24-10-2021,P0011,3,Wholesaler,California,Cash,Product11,Category02,Lt,44,48.4,132,145.2
+25-10-2021,P0044,9,Online,California,Cash,Product44,Category05,Kg,76,82.08,684,738.72
+26-10-2021,P0004,6,Wholesaler,California,Cash,Product04,Category01,Lt,44,48.84,264,293.04
+28-10-2021,P0008,1,Direct Sales,California,Cash,Product08,Category01,Kg,83,94.62,83,94.62
+29-10-2021,P0038,14,Online,California,Online,Product38,Category05,Kg,72,79.92,1008,1118.88
+31-10-2021,P0021,6,Online,California,Cash,Product21,Category03,Ft,126,162.54,756,975.24
+03-11-2021,P0013,12,Direct Sales,California,Cash,Product13,Category02,Kg,112,122.08,1344,1464.96
+06-11-2021,P0036,10,Direct Sales,California,Online,Product36,Category04,Kg,90,96.3,900,963
+08-11-2021,P0007,15,Direct Sales,Delaware,Online,Product07,Category01,Lt,43,47.73,645,715.95
+10-11-2021,P0042,6,Online,Delaware,Cash,Product42,Category05,Ft,120,162,720,972
+11-11-2021,P0040,12,Wholesaler,Florida,Online,Product40,Category05,Kg,90,115.2,1080,1382.4
+12-11-2021,P0010,3,Online,Florida,Cash,Product10,Category02,Ft,148,164.28,444,492.84
+20-11-2021,P0034,14,Online,Florida,Online,Product34,Category04,Lt,55,58.3,770,816.2
+20-11-2021,P0008,11,Online,Illinois,Cash,Product08,Category01,Kg,83,94.62,913,1040.82
+21-11-2021,P0014,1,Wholesaler,Illinois,Online,Product14,Category02,Kg,112,146.72,112,146.72
+21-11-2021,P0006,1,Online,Illinois,Cash,Product06,Category01,Kg,75,85.5,75,85.5
+27-11-2021,P0012,8,Online,Illinois,Online,Product12,Category02,Kg,73,94.17,584,753.36
+28-11-2021,P0040,2,Direct Sales,Indiana,Cash,Product40,Category05,Kg,90,115.2,180,230.4
+30-11-2021,P0039,15,Direct Sales,Indiana,Online,Product39,Category05,No.,37,42.55,555,638.25
+02-12-2021,P0016,10,Direct Sales,Indiana,Cash,Product16,Category02,No.,13,16.64,130,166.4
+03-12-2021,P0034,2,Online,Indiana,Cash,Product34,Category04,Lt,55,58.3,110,116.6
+03-12-2021,P0019,8,Online,Kentucky,Online,Product19,Category02,Ft,150,210,1200,1680
+05-12-2021,P0004,15,Direct Sales,Kentucky,Cash,Product04,Category01,Lt,44,48.84,660,732.6
+05-12-2021,P0010,1,Direct Sales,Michigan,Online,Product10,Category02,Ft,148,164.28,148,164.28
+07-12-2021,P0013,8,Direct Sales,Michigan,Online,Product13,Category02,Kg,112,122.08,896,976.64
+08-12-2021,P0044,14,Direct Sales,Minnesota,Online,Product44,Category05,Kg,76,82.08,1064,1149.12
+14-12-2021,P0042,4,Direct Sales,Minnesota,Online,Product42,Category05,Ft,120,162,480,648
+18-12-2021,P0003,2,Direct Sales,Minnesota,Cash,Product03,Category01,Kg,71,80.94,142,161.88
+18-12-2021,P0022,8,Online,Minnesota,Cash,Product22,Category03,Ft,121,141.57,968,1132.56
+19-12-2021,P0023,12,Direct Sales,Minnesota,Online,Product23,Category03,Ft,141,149.46,1692,1793.52
+19-12-2021,P0029,3,Wholesaler,Minnesota,Online,Product29,Category04,Lt,47,53.11,141,159.33
+19-12-2021,P0011,10,Online,Minnesota,Online,Product11,Category02,Lt,44,48.4,440,484
+20-12-2021,P0012,14,Direct Sales,Minnesota,Online,Product12,Category02,Kg,73,94.17,1022,1318.38
+21-12-2021,P0026,10,Online,Nebraska,Cash,Product26,Category04,No.,18,24.66,180,246.6
+24-12-2021,P0042,8,Wholesaler,Nebraska,Cash,Product42,Category05,Ft,120,162,960,1296
+24-12-2021,P0036,8,Wholesaler,New York,Online,Product36,Category04,Kg,90,96.3,720,770.4
+26-12-2021,P0041,14,Online,New York,Cash,Product41,Category05,Ft,138,173.88,1932,2434.32
+27-12-2021,P0029,14,Direct Sales,New York,Cash,Product29,Category04,Lt,47,53.11,658,743.54
+28-12-2021,P0029,6,Direct Sales,New York,Cash,Product29,Category04,Lt,47,53.11,282,318.66
+30-12-2021,P0010,13,Online,New York,Online,Product10,Category02,Ft,148,164.28,1924,2135.64
+01-01-2022,P0022,1,Wholesaler,New York,Cash,Product22,Category03,Ft,121,141.57,121,141.57
+02-01-2022,P0010,7,Direct Sales,New York,Cash,Product10,Category02,Ft,148,164.28,1036,1149.96
+02-01-2022,P0015,2,Online,New York,Cash,Product15,Category02,No.,12,15.72,24,31.44
+02-01-2022,P0033,1,Direct Sales,New York,Cash,Product33,Category04,Kg,95,119.7,95,119.7
+03-01-2022,P0043,9,Direct Sales,New York,Cash,Product43,Category05,Kg,67,83.08,603,747.72
+04-01-2022,P0012,8,Direct Sales,New York,Online,Product12,Category02,Kg,73,94.17,584,753.36
+04-01-2022,P0029,1,Online,North Carolina,Online,Product29,Category04,Lt,47,53.11,47,53.11
+09-01-2022,P0032,12,Direct Sales,North Carolina,Online,Product32,Category04,Kg,89,117.48,1068,1409.76
+10-01-2022,P0034,14,Online,Oregon,Online,Product34,Category04,Lt,55,58.3,770,816.2
+11-01-2022,P0032,2,Direct Sales,Pennsylvania,Online,Product32,Category04,Kg,89,117.48,178,234.96
+13-01-2022,P0019,6,Online,Pennsylvania,Online,Product19,Category02,Ft,150,210,900,1260
+14-01-2022,P0011,14,Direct Sales,Pennsylvania,Online,Product11,Category02,Lt,44,48.4,616,677.6
+15-01-2022,P0022,10,Direct Sales,Pennsylvania,Cash,Product22,Category03,Ft,121,141.57,1210,1415.7
+16-01-2022,P0014,11,Online,Pennsylvania,Cash,Product14,Category02,Kg,112,146.72,1232,1613.92
+17-01-2022,P0040,4,Online,Pennsylvania,Online,Product40,Category05,Kg,90,115.2,360,460.8
+18-01-2022,P0008,9,Wholesaler,Pennsylvania,Cash,Product08,Category01,Kg,83,94.62,747,851.58
+20-01-2022,P0021,2,Direct Sales,Pennsylvania,Cash,Product21,Category03,Ft,126,162.54,252,325.08
+20-01-2022,P0014,7,Online,South Carolina,Online,Product14,Category02,Kg,112,146.72,784,1027.04
+22-01-2022,P0001,6,Online,Tennessee,Cash,Product01,Category01,Kg,98,103.88,588,623.28
+23-01-2022,P0002,5,Wholesaler,Tennessee,Cash,Product02,Category01,Kg,105,142.8,525,714
+23-01-2022,P0042,8,Direct Sales,Tennessee,Online,Product42,Category05,Ft,120,162,960,1296
+24-01-2022,P0030,15,Online,Texas,Online,Product30,Category04,Ft,148,201.28,2220,3019.2
+25-01-2022,P0017,14,Direct Sales,Texas,Cash,Product17,Category02,Ft,134,156.78,1876,2194.92
+28-01-2022,P0016,11,Direct Sales,Texas,Online,Product16,Category02,No.,13,16.64,143,183.04
+31-01-2022,P0023,6,Online,Texas,Cash,Product23,Category03,Ft,141,149.46,846,896.76
+31-01-2022,P0041,9,Direct Sales,Texas,Cash,Product41,Category05,Ft,138,173.88,1242,1564.92
+01-02-2022,P0005,9,Direct Sales,Texas,Cash,Product05,Category01,Ft,133,155.61,1197,1400.49
+03-02-2022,P0014,8,Direct Sales,Texas,Online,Product14,Category02,Kg,112,146.72,896,1173.76
+05-02-2022,P0018,6,Direct Sales,Texas,Cash,Product18,Category02,No.,37,49.21,222,295.26
+06-02-2022,P0002,6,Direct Sales,Texas,Cash,Product02,Category01,Kg,105,142.8,630,856.8
+08-02-2022,P0005,11,Online,Texas,Cash,Product05,Category01,Ft,133,155.61,1463,1711.71
+08-02-2022,P0004,3,Online,Texas,Cash,Product04,Category01,Lt,44,48.84,132,146.52
+09-02-2022,P0032,14,Online,Texas,Online,Product32,Category04,Kg,89,117.48,1246,1644.72
+12-02-2022,P0010,13,Direct Sales,Texas,Cash,Product10,Category02,Ft,148,164.28,1924,2135.64
+14-02-2022,P0026,8,Online,Texas,Cash,Product26,Category04,No.,18,24.66,144,197.28
+14-02-2022,P0028,3,Direct Sales,Utah,Cash,Product28,Category04,No.,37,41.81,111,125.43
+16-02-2022,P0032,1,Online,Utah,Cash,Product32,Category04,Kg,89,117.48,89,117.48
+19-02-2022,P0002,13,Online,Virginia,Cash,Product02,Category01,Kg,105,142.8,1365,1856.4
+20-02-2022,P0012,6,Direct Sales,Washington,Cash,Product12,Category02,Kg,73,94.17,438,565.02
+23-02-2022,P0013,6,Online,Wisconsin,Online,Product13,Category02,Kg,112,122.08,672,732.48
+23-02-2022,P0016,15,Online,Berlin,Cash,Product16,Category02,No.,13,16.64,195,249.6
+23-02-2022,P0036,8,Direct Sales,Alabama,Online,Product36,Category04,Kg,90,96.3,720,770.4
+27-02-2022,P0012,7,Direct Sales,Alabama,Cash,Product12,Category02,Kg,73,94.17,511,659.19
+27-02-2022,P0005,15,Direct Sales,Arizona,Online,Product05,Category01,Ft,133,155.61,1995,2334.15
+28-02-2022,P0037,15,Direct Sales,Arizona,Cash,Product37,Category05,Kg,67,85.76,1005,1286.4
+04-03-2022,P0026,13,Wholesaler,California,Online,Product26,Category04,No.,18,24.66,234,320.58
+06-03-2022,P0004,2,Direct Sales,California,Cash,Product04,Category01,Lt,44,48.84,88,97.68
+07-03-2022,P0003,1,Direct Sales,California,Cash,Product03,Category01,Kg,71,80.94,71,80.94
+08-03-2022,P0044,6,Direct Sales,California,Online,Product44,Category05,Kg,76,82.08,456,492.48
+09-03-2022,P0030,3,Direct Sales,California,Online,Product30,Category04,Ft,148,201.28,444,603.84
+09-03-2022,P0004,11,Online,California,Cash,Product04,Category01,Lt,44,48.84,484,537.24
+10-03-2022,P0033,12,Wholesaler,California,Online,Product33,Category04,Kg,95,119.7,1140,1436.4
+14-03-2022,P0016,2,Direct Sales,California,Cash,Product16,Category02,No.,13,16.64,26,33.28
+14-03-2022,P0026,13,Direct Sales,California,Online,Product26,Category04,No.,18,24.66,234,320.58
+18-03-2022,P0019,2,Online,California,Cash,Product19,Category02,Ft,150,210,300,420
+18-03-2022,P0027,10,Direct Sales,California,Cash,Product27,Category04,Lt,48,57.12,480,571.2
+19-03-2022,P0041,6,Wholesaler,California,Cash,Product41,Category05,Ft,138,173.88,828,1043.28
+23-03-2022,P0032,9,Direct Sales,California,Cash,Product32,Category04,Kg,89,117.48,801,1057.32
+25-03-2022,P0001,2,Wholesaler,California,Online,Product01,Category01,Kg,98,103.88,196,207.76
+25-03-2022,P0030,11,Direct Sales,California,Online,Product30,Category04,Ft,148,201.28,1628,2214.08
+29-03-2022,P0032,12,Online,California,Online,Product32,Category04,Kg,89,117.48,1068,1409.76
+30-03-2022,P0001,13,Online,California,Cash,Product01,Category01,Kg,98,103.88,1274,1350.44
+01-04-2022,P0002,2,Online,California,Cash,Product02,Category01,Kg,105,142.8,210,285.6
+02-04-2022,P0002,3,Direct Sales,California,Cash,Product02,Category01,Kg,105,142.8,315,428.4
+06-04-2022,P0040,2,Wholesaler,California,Cash,Product40,Category05,Kg,90,115.2,180,230.4
+07-04-2022,P0026,7,Direct Sales,California,Online,Product26,Category04,No.,18,24.66,126,172.62
+09-04-2022,P0039,12,Wholesaler,California,Cash,Product39,Category05,No.,37,42.55,444,510.6
+09-04-2022,P0002,9,Online,California,Online,Product02,Category01,Kg,105,142.8,945,1285.2
+13-04-2022,P0016,14,Wholesaler,California,Online,Product16,Category02,No.,13,16.64,182,232.96
+18-04-2022,P0041,9,Direct Sales,Delaware,Cash,Product41,Category05,Ft,138,173.88,1242,1564.92
+20-04-2022,P0018,2,Wholesaler,Delaware,Online,Product18,Category02,No.,37,49.21,74,98.42
+20-04-2022,P0012,4,Direct Sales,Florida,Online,Product12,Category02,Kg,73,94.17,292,376.68
+21-04-2022,P0030,2,Direct Sales,Florida,Cash,Product30,Category04,Ft,148,201.28,296,402.56
+21-04-2022,P0026,14,Online,Florida,Online,Product26,Category04,No.,18,24.66,252,345.24
+23-04-2022,P0044,15,Online,Illinois,Online,Product44,Category05,Kg,76,82.08,1140,1231.2
+24-04-2022,P0034,4,Direct Sales,Illinois,Online,Product34,Category04,Lt,55,58.3,220,233.2
+25-04-2022,P0004,9,Direct Sales,Illinois,Cash,Product04,Category01,Lt,44,48.84,396,439.56
+25-04-2022,P0003,8,Online,Illinois,Online,Product03,Category01,Kg,71,80.94,568,647.52
+26-04-2022,P0027,2,Direct Sales,Indiana,Cash,Product27,Category04,Lt,48,57.12,96,114.24
+28-04-2022,P0014,14,Direct Sales,Indiana,Cash,Product14,Category02,Kg,112,146.72,1568,2054.08
+30-04-2022,P0016,13,Online,Indiana,Online,Product16,Category02,No.,13,16.64,169,216.32
+30-04-2022,P0027,8,Direct Sales,Indiana,Online,Product27,Category04,Lt,48,57.12,384,456.96
+01-05-2022,P0034,9,Wholesaler,Kentucky,Online,Product34,Category04,Lt,55,58.3,495,524.7
+01-05-2022,P0033,6,Online,Kentucky,Online,Product33,Category04,Kg,95,119.7,570,718.2
+02-05-2022,P0013,4,Online,Michigan,Cash,Product13,Category02,Kg,112,122.08,448,488.32
+04-05-2022,P0020,10,Direct Sales,Michigan,Online,Product20,Category03,Lt,61,76.25,610,762.5
+06-05-2022,P0034,7,Direct Sales,Minnesota,Online,Product34,Category04,Lt,55,58.3,385,408.1
+07-05-2022,P0015,4,Online,Minnesota,Cash,Product15,Category02,No.,12,15.72,48,62.88
+07-05-2022,P0027,1,Online,Minnesota,Online,Product27,Category04,Lt,48,57.12,48,57.12
+08-05-2022,P0022,7,Online,Minnesota,Online,Product22,Category03,Ft,121,141.57,847,990.99
+09-05-2022,P0017,12,Wholesaler,Minnesota,Cash,Product17,Category02,Ft,134,156.78,1608,1881.36
+10-05-2022,P0009,6,Direct Sales,Minnesota,Online,Product09,Category01,No.,6,7.86,36,47.16
+12-05-2022,P0011,7,Online,Minnesota,Cash,Product11,Category02,Lt,44,48.4,308,338.8
+13-05-2022,P0012,5,Direct Sales,Minnesota,Online,Product12,Category02,Kg,73,94.17,365,470.85
+14-05-2022,P0008,14,Direct Sales,Nebraska,Cash,Product08,Category01,Kg,83,94.62,1162,1324.68
+15-05-2022,P0020,5,Online,Nebraska,Online,Product20,Category03,Lt,61,76.25,305,381.25
+16-05-2022,P0010,13,Direct Sales,New York,Cash,Product10,Category02,Ft,148,164.28,1924,2135.64
+16-05-2022,P0031,13,Online,New York,Online,Product31,Category04,Kg,93,104.16,1209,1354.08
+17-05-2022,P0027,8,Direct Sales,New York,Cash,Product27,Category04,Lt,48,57.12,384,456.96
+18-05-2022,P0027,4,Wholesaler,New York,Online,Product27,Category04,Lt,48,57.12,192,228.48
+18-05-2022,P0038,8,Wholesaler,New York,Online,Product38,Category05,Kg,72,79.92,576,639.36
+20-05-2022,P0044,15,Online,New York,Cash,Product44,Category05,Kg,76,82.08,1140,1231.2
+22-05-2022,P0015,12,Direct Sales,New York,Online,Product15,Category02,No.,12,15.72,144,188.64
+25-05-2022,P0002,7,Online,New York,Online,Product02,Category01,Kg,105,142.8,735,999.6
+26-05-2022,P0028,2,Direct Sales,New York,Online,Product28,Category04,No.,37,41.81,74,83.62
+26-05-2022,P0027,2,Online,New York,Online,Product27,Category04,Lt,48,57.12,96,114.24
+28-05-2022,P0041,10,Wholesaler,New York,Cash,Product41,Category05,Ft,138,173.88,1380,1738.8
+28-05-2022,P0008,5,Wholesaler,North Carolina,Online,Product08,Category01,Kg,83,94.62,415,473.1
+28-05-2022,P0010,9,Online,North Carolina,Cash,Product10,Category02,Ft,148,164.28,1332,1478.52
+28-05-2022,P0004,12,Online,Oregon,Online,Product04,Category01,Lt,44,48.84,528,586.08
+28-05-2022,P0020,14,Direct Sales,Pennsylvania,Cash,Product20,Category03,Lt,61,76.25,854,1067.5
+30-05-2022,P0044,9,Direct Sales,Pennsylvania,Online,Product44,Category05,Kg,76,82.08,684,738.72
+30-05-2022,P0005,4,Wholesaler,Pennsylvania,Cash,Product05,Category01,Ft,133,155.61,532,622.44
+30-05-2022,P0033,3,Online,Pennsylvania,Cash,Product33,Category04,Kg,95,119.7,285,359.1
+03-06-2022,P0008,14,Online,Pennsylvania,Online,Product08,Category01,Kg,83,94.62,1162,1324.68
+10-06-2022,P0028,8,Wholesaler,Pennsylvania,Online,Product28,Category04,No.,37,41.81,296,334.48
+11-06-2022,P0039,13,Online,Pennsylvania,Cash,Product39,Category05,No.,37,42.55,481,553.15
+11-06-2022,P0021,6,Direct Sales,Pennsylvania,Online,Product21,Category03,Ft,126,162.54,756,975.24
+13-06-2022,P0026,6,Direct Sales,South Carolina,Cash,Product26,Category04,No.,18,24.66,108,147.96
+15-06-2022,P0042,15,Wholesaler,Tennessee,Online,Product42,Category05,Ft,120,162,1800,2430
+16-06-2022,P0029,15,Online,Tennessee,Cash,Product29,Category04,Lt,47,53.11,705,796.65
+19-06-2022,P0002,8,Direct Sales,Tennessee,Cash,Product02,Category01,Kg,105,142.8,840,1142.4
+21-06-2022,P0017,14,Direct Sales,Texas,Cash,Product17,Category02,Ft,134,156.78,1876,2194.92
+22-06-2022,P0040,10,Online,Texas,Cash,Product40,Category05,Kg,90,115.2,900,1152
+22-06-2022,P0001,4,Direct Sales,Texas,Cash,Product01,Category01,Kg,98,103.88,392,415.52
+23-06-2022,P0004,8,Direct Sales,Texas,Online,Product04,Category01,Lt,44,48.84,352,390.72
+24-06-2022,P0018,7,Direct Sales,Texas,Cash,Product18,Category02,No.,37,49.21,259,344.47
+25-06-2022,P0012,7,Online,Texas,Online,Product12,Category02,Kg,73,94.17,511,659.19
+26-06-2022,P0034,4,Direct Sales,Texas,Cash,Product34,Category04,Lt,55,58.3,220,233.2
+26-06-2022,P0043,12,Direct Sales,Texas,Online,Product43,Category05,Kg,67,83.08,804,996.96
+03-07-2022,P0033,15,Direct Sales,Texas,Cash,Product33,Category04,Kg,95,119.7,1425,1795.5
+04-07-2022,P0007,7,Direct Sales,Texas,Online,Product07,Category01,Lt,43,47.73,301,334.11
+05-07-2022,P0025,7,Online,Texas,Cash,Product25,Category03,No.,7,8.33,49,58.31
+05-07-2022,P0015,8,Direct Sales,Texas,Online,Product15,Category02,No.,12,15.72,96,125.76
+06-07-2022,P0041,2,Direct Sales,Texas,Cash,Product41,Category05,Ft,138,173.88,276,347.76
+08-07-2022,P0018,2,Direct Sales,Texas,Online,Product18,Category02,No.,37,49.21,74,98.42
+10-07-2022,P0032,12,Online,Utah,Cash,Product32,Category04,Kg,89,117.48,1068,1409.76
+12-07-2022,P0028,12,Direct Sales,Utah,Cash,Product28,Category04,No.,37,41.81,444,501.72
+13-07-2022,P0025,7,Direct Sales,Virginia,Online,Product25,Category03,No.,7,8.33,49,58.31
+14-07-2022,P0033,9,Direct Sales,Washington,Online,Product33,Category04,Kg,95,119.7,855,1077.3
+15-07-2022,P0004,2,Online,Wisconsin,Online,Product04,Category01,Lt,44,48.84,88,97.68
+17-07-2022,P0041,8,Online,Berlin,Cash,Product41,Category05,Ft,138,173.88,1104,1391.04
+18-07-2022,P0010,12,Direct Sales,Alabama,Online,Product10,Category02,Ft,148,164.28,1776,1971.36
+20-07-2022,P0042,8,Wholesaler,Alabama,Online,Product42,Category05,Ft,120,162,960,1296
+22-07-2022,P0034,6,Direct Sales,Arizona,Cash,Product34,Category04,Lt,55,58.3,330,349.8
+23-07-2022,P0018,2,Online,Arizona,Online,Product18,Category02,No.,37,49.21,74,98.42
+24-07-2022,P0006,14,Direct Sales,California,Cash,Product06,Category01,Kg,75,85.5,1050,1197
+24-07-2022,P0027,1,Online,California,Online,Product27,Category04,Lt,48,57.12,48,57.12
+25-07-2022,P0044,2,Direct Sales,California,Cash,Product44,Category05,Kg,76,82.08,152,164.16
+25-07-2022,P0017,12,Direct Sales,California,Cash,Product17,Category02,Ft,134,156.78,1608,1881.36
+25-07-2022,P0003,13,Online,California,Cash,Product03,Category01,Kg,71,80.94,923,1052.22
+26-07-2022,P0003,10,Online,California,Online,Product03,Category01,Kg,71,80.94,710,809.4
+26-07-2022,P0026,1,Online,California,Cash,Product26,Category04,No.,18,24.66,18,24.66
+03-08-2022,P0012,5,Direct Sales,California,Cash,Product12,Category02,Kg,73,94.17,365,470.85
+06-08-2022,P0016,9,Online,California,Online,Product16,Category02,No.,13,16.64,117,149.76
+08-08-2022,P0016,2,Direct Sales,California,Online,Product16,Category02,No.,13,16.64,26,33.28
+08-08-2022,P0032,12,Direct Sales,California,Cash,Product32,Category04,Kg,89,117.48,1068,1409.76
+08-08-2022,P0021,11,Direct Sales,California,Cash,Product21,Category03,Ft,126,162.54,1386,1787.94
+14-08-2022,P0030,14,Direct Sales,California,Cash,Product30,Category04,Ft,148,201.28,2072,2817.92
+15-08-2022,P0011,10,Wholesaler,California,Cash,Product11,Category02,Lt,44,48.4,440,484
+15-08-2022,P0015,7,Direct Sales,California,Online,Product15,Category02,No.,12,15.72,84,110.04
+18-08-2022,P0029,8,Online,California,Online,Product29,Category04,Lt,47,53.11,376,424.88
+18-08-2022,P0010,2,Online,California,Cash,Product10,Category02,Ft,148,164.28,296,328.56
+19-08-2022,P0007,3,Online,California,Online,Product07,Category01,Lt,43,47.73,129,143.19
+20-08-2022,P0023,13,Direct Sales,California,Online,Product23,Category03,Ft,141,149.46,1833,1942.98
+20-08-2022,P0033,14,Direct Sales,California,Online,Product33,Category04,Kg,95,119.7,1330,1675.8
+21-08-2022,P0016,4,Direct Sales,California,Online,Product16,Category02,No.,13,16.64,52,66.56
+23-08-2022,P0044,11,Online,California,Online,Product44,Category05,Kg,76,82.08,836,902.88
+23-08-2022,P0029,14,Direct Sales,California,Cash,Product29,Category04,Lt,47,53.11,658,743.54
+24-08-2022,P0005,5,Direct Sales,California,Cash,Product05,Category01,Ft,133,155.61,665,778.05
+26-08-2022,P0019,13,Wholesaler,Delaware,Cash,Product19,Category02,Ft,150,210,1950,2730
+26-08-2022,P0037,8,Online,Delaware,Online,Product37,Category05,Kg,67,85.76,536,686.08
+27-08-2022,P0039,15,Wholesaler,Florida,Online,Product39,Category05,No.,37,42.55,555,638.25
+28-08-2022,P0005,9,Online,Florida,Online,Product05,Category01,Ft,133,155.61,1197,1400.49
+28-08-2022,P0039,5,Direct Sales,Florida,Online,Product39,Category05,No.,37,42.55,185,212.75
+30-08-2022,P0006,6,Online,Illinois,Cash,Product06,Category01,Kg,75,85.5,450,513
+30-08-2022,P0043,6,Direct Sales,Illinois,Cash,Product43,Category05,Kg,67,83.08,402,498.48
+30-08-2022,P0025,5,Direct Sales,Illinois,Cash,Product25,Category03,No.,7,8.33,35,41.65
+31-08-2022,P0015,13,Direct Sales,Illinois,Cash,Product15,Category02,No.,12,15.72,156,204.36
+04-09-2022,P0002,1,Direct Sales,Indiana,Cash,Product02,Category01,Kg,105,142.8,105,142.8
+06-09-2022,P0005,12,Wholesaler,Indiana,Online,Product05,Category01,Ft,133,155.61,1596,1867.32
+09-09-2022,P0041,9,Direct Sales,Indiana,Online,Product41,Category05,Ft,138,173.88,1242,1564.92
+09-09-2022,P0003,3,Direct Sales,Indiana,Online,Product03,Category01,Kg,71,80.94,213,242.82
+10-09-2022,P0035,15,Online,Kentucky,Cash,Product35,Category04,No.,5,6.7,75,100.5
+10-09-2022,P0038,4,Direct Sales,Kentucky,Cash,Product38,Category05,Kg,72,79.92,288,319.68
+14-09-2022,P0029,3,Direct Sales,Michigan,Cash,Product29,Category04,Lt,47,53.11,141,159.33
+15-09-2022,P0037,15,Online,Michigan,Online,Product37,Category05,Kg,67,85.76,1005,1286.4
+18-09-2022,P0026,14,Online,Minnesota,Cash,Product26,Category04,No.,18,24.66,252,345.24
+19-09-2022,P0033,8,Wholesaler,Minnesota,Cash,Product33,Category04,Kg,95,119.7,760,957.6
+20-09-2022,P0033,6,Direct Sales,Minnesota,Online,Product33,Category04,Kg,95,119.7,570,718.2
+20-09-2022,P0001,10,Direct Sales,Minnesota,Online,Product01,Category01,Kg,98,103.88,980,1038.8
+21-09-2022,P0018,14,Online,Minnesota,Online,Product18,Category02,No.,37,49.21,518,688.94
+21-09-2022,P0026,5,Direct Sales,Minnesota,Cash,Product26,Category04,No.,18,24.66,90,123.3
+22-09-2022,P0043,12,Online,Minnesota,Online,Product43,Category05,Kg,67,83.08,804,996.96
+23-09-2022,P0012,12,Direct Sales,Minnesota,Online,Product12,Category02,Kg,73,94.17,876,1130.04
+24-09-2022,P0032,14,Direct Sales,Nebraska,Online,Product32,Category04,Kg,89,117.48,1246,1644.72
+24-09-2022,P0032,8,Direct Sales,Nebraska,Cash,Product32,Category04,Kg,89,117.48,712,939.84
+27-09-2022,P0036,4,Direct Sales,New York,Cash,Product36,Category04,Kg,90,96.3,360,385.2
+27-09-2022,P0044,9,Direct Sales,New York,Cash,Product44,Category05,Kg,76,82.08,684,738.72
+27-09-2022,P0038,3,Wholesaler,New York,Cash,Product38,Category05,Kg,72,79.92,216,239.76
+29-09-2022,P0034,13,Direct Sales,New York,Online,Product34,Category04,Lt,55,58.3,715,757.9
+03-10-2022,P0011,5,Direct Sales,New York,Cash,Product11,Category02,Lt,44,48.4,220,242
+04-10-2022,P0007,15,Direct Sales,New York,Online,Product07,Category01,Lt,43,47.73,645,715.95
+06-10-2022,P0035,1,Direct Sales,New York,Online,Product35,Category04,No.,5,6.7,5,6.7
+09-10-2022,P0038,14,Online,New York,Online,Product38,Category05,Kg,72,79.92,1008,1118.88
+10-10-2022,P0019,9,Direct Sales,New York,Online,Product19,Category02,Ft,150,210,1350,1890
+10-10-2022,P0044,12,Online,New York,Online,Product44,Category05,Kg,76,82.08,912,984.96
+11-10-2022,P0008,10,Direct Sales,New York,Online,Product08,Category01,Kg,83,94.62,830,946.2
+13-10-2022,P0002,15,Online,North Carolina,Online,Product02,Category01,Kg,105,142.8,1575,2142
+14-10-2022,P0044,15,Wholesaler,North Carolina,Online,Product44,Category05,Kg,76,82.08,1140,1231.2
+15-10-2022,P0015,10,Direct Sales,Oregon,Cash,Product15,Category02,No.,12,15.72,120,157.2
+16-10-2022,P0036,3,Online,Pennsylvania,Online,Product36,Category04,Kg,90,96.3,270,288.9
+23-10-2022,P0024,14,Online,Pennsylvania,Cash,Product24,Category03,Ft,144,156.96,2016,2197.44
+30-10-2022,P0042,3,Direct Sales,Pennsylvania,Cash,Product42,Category05,Ft,120,162,360,486
+31-10-2022,P0038,8,Direct Sales,Pennsylvania,Online,Product38,Category05,Kg,72,79.92,576,639.36
+01-11-2022,P0012,15,Wholesaler,Pennsylvania,Online,Product12,Category02,Kg,73,94.17,1095,1412.55
+02-11-2022,P0015,15,Wholesaler,Pennsylvania,Cash,Product15,Category02,No.,12,15.72,180,235.8
+02-11-2022,P0030,15,Direct Sales,Pennsylvania,Cash,Product30,Category04,Ft,148,201.28,2220,3019.2
+02-11-2022,P0035,5,Direct Sales,Pennsylvania,Cash,Product35,Category04,No.,5,6.7,25,33.5
+03-11-2022,P0020,11,Online,South Carolina,Online,Product20,Category03,Lt,61,76.25,671,838.75
+04-11-2022,P0008,10,Direct Sales,Tennessee,Online,Product08,Category01,Kg,83,94.62,830,946.2
+05-11-2022,P0019,15,Direct Sales,Tennessee,Cash,Product19,Category02,Ft,150,210,2250,3150
+06-11-2022,P0043,13,Direct Sales,Tennessee,Cash,Product43,Category05,Kg,67,83.08,871,1080.04
+06-11-2022,P0015,13,Online,Texas,Online,Product15,Category02,No.,12,15.72,156,204.36
+06-11-2022,P0042,13,Direct Sales,Texas,Cash,Product42,Category05,Ft,120,162,1560,2106
+07-11-2022,P0040,13,Online,Texas,Cash,Product40,Category05,Kg,90,115.2,1170,1497.6
+08-11-2022,P0036,11,Wholesaler,Texas,Cash,Product36,Category04,Kg,90,96.3,990,1059.3
+08-11-2022,P0019,10,Wholesaler,Texas,Online,Product19,Category02,Ft,150,210,1500,2100
+09-11-2022,P0027,8,Online,Texas,Cash,Product27,Category04,Lt,48,57.12,384,456.96
+10-11-2022,P0018,7,Direct Sales,Texas,Online,Product18,Category02,No.,37,49.21,259,344.47
+13-11-2022,P0027,10,Wholesaler,Texas,Cash,Product27,Category04,Lt,48,57.12,480,571.2
+14-11-2022,P0002,1,Direct Sales,Texas,Cash,Product02,Category01,Kg,105,142.8,105,142.8
+15-11-2022,P0012,14,Direct Sales,Texas,Cash,Product12,Category02,Kg,73,94.17,1022,1318.38
+16-11-2022,P0017,8,Online,Texas,Online,Product17,Category02,Ft,134,156.78,1072,1254.24
+18-11-2022,P0034,8,Direct Sales,Texas,Cash,Product34,Category04,Lt,55,58.3,440,466.4
+21-11-2022,P0020,6,Direct Sales,Texas,Cash,Product20,Category03,Lt,61,76.25,366,457.5
+23-11-2022,P0036,12,Online,Texas,Online,Product36,Category04,Kg,90,96.3,1080,1155.6
+25-11-2022,P0004,5,Direct Sales,Utah,Cash,Product04,Category01,Lt,44,48.84,220,244.2
+26-11-2022,P0032,5,Direct Sales,Utah,Online,Product32,Category04,Kg,89,117.48,445,587.4
+27-11-2022,P0034,15,Direct Sales,Virginia,Online,Product34,Category04,Lt,55,58.3,825,874.5
+28-11-2022,P0031,8,Direct Sales,Washington,Cash,Product31,Category04,Kg,93,104.16,744,833.28
+30-11-2022,P0015,2,Direct Sales,Wisconsin,Online,Product15,Category02,No.,12,15.72,24,31.44
+03-12-2022,P0028,5,Wholesaler,Berlin,Cash,Product28,Category04,No.,37,41.81,185,209.05
+04-12-2022,P0026,10,Direct Sales,Alabama,Cash,Product26,Category04,No.,18,24.66,180,246.6
+04-12-2022,P0044,15,Direct Sales,Alabama,Cash,Product44,Category05,Kg,76,82.08,1140,1231.2
+07-12-2022,P0038,12,Direct Sales,Arizona,Cash,Product38,Category05,Kg,72,79.92,864,959.04
+07-12-2022,P0016,13,Direct Sales,Arizona,Online,Product16,Category02,No.,13,16.64,169,216.32
+07-12-2022,P0038,5,Direct Sales,California,Cash,Product38,Category05,Kg,72,79.92,360,399.6
+11-12-2022,P0027,5,Direct Sales,California,Online,Product27,Category04,Lt,48,57.12,240,285.6
+11-12-2022,P0013,9,Wholesaler,California,Online,Product13,Category02,Kg,112,122.08,1008,1098.72
+11-12-2022,P0014,10,Online,California,Cash,Product14,Category02,Kg,112,146.72,1120,1467.2
+12-12-2022,P0030,9,Wholesaler,California,Cash,Product30,Category04,Ft,148,201.28,1332,1811.52
+12-12-2022,P0041,10,Wholesaler,California,Online,Product41,Category05,Ft,138,173.88,1380,1738.8
+14-12-2022,P0005,4,Direct Sales,California,Cash,Product05,Category01,Ft,133,155.61,532,622.44
+15-12-2022,P0009,13,Direct Sales,California,Online,Product09,Category01,No.,6,7.86,78,102.18
+19-12-2022,P0044,7,Direct Sales,California,Online,Product44,Category05,Kg,76,82.08,532,574.56
+19-12-2022,P0011,14,Direct Sales,California,Cash,Product11,Category02,Lt,44,48.4,616,677.6
+19-12-2022,P0009,11,Online,California,Online,Product09,Category01,No.,6,7.86,66,86.46
+21-12-2022,P0006,10,Direct Sales,California,Online,Product06,Category01,Kg,75,85.5,750,855
+29-12-2022,P0008,15,Direct Sales,California,Online,Product08,Category01,Kg,83,94.62,1245,1419.3
+29-12-2022,P0042,1,Wholesaler,California,Cash,Product42,Category05,Ft,120,162,120,162
+30-12-2022,P0041,14,Direct Sales,California,Online,Product41,Category05,Ft,138,173.88,1932,2434.32
+31-12-2022,P0033,12,Online,California,Online,Product33,Category04,Kg,95,119.7,1140,1436.4
+31-12-2022,P0011,6,Online,California,Online,Product11,Category02,Lt,44,48.4,264,290.4
+31-12-2022,P0011,3,Wholesaler,California,Cash,Product11,Category02,Lt,44,48.4,132,145.2
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
